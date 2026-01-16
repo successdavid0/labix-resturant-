@@ -15,7 +15,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 
 const stats = [
   {
-    title: "Today's Revenue",
+    title: "Today&apos;s Revenue",
     value: "$12,450",
     change: "+12.5%",
     icon: DollarSign,

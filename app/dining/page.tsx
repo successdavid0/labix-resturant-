@@ -14,7 +14,7 @@ const menuCategories = [
   "Main Courses",
   "Desserts",
   "Beverages",
-  "Chef's Specials",
+  "Chef&apos;s Specials",
 ];
 
 const menuItems = [
@@ -226,7 +226,7 @@ export default function DiningPage() {
                   <div className="absolute top-2 right-2">
                     <span className="bg-gold-primary text-white px-2 py-1 rounded text-xs font-semibold flex items-center gap-1">
                       <ChefHat className="h-3 w-3" />
-                      Chef's Pick
+                      Chef&apos;s Pick
                     </span>
                   </div>
                 )}
