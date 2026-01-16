@@ -5,7 +5,7 @@ export function Footer() {
   const footerLinks = {
     dining: [
       { href: "/dining", label: "Menu" },
-      { href: "/dining/specials", label: "Chef's Specials" },
+      { href: "/dining/specials", label: "Chef&apos;s Specials" },
       { href: "/dining/wine", label: "Wine & Cocktails" },
     ],
     services: [
